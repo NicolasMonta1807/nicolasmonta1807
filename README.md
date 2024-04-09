@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Web and Mobile development, Testing, QA, Microservices**
 
-- 📫 How to reach me **nicolasmonta1807@gmail.com**
-
-- ⚡ Fun fact **Another cinema lover and die hard fan of E.P.**
+- 📫 Reach me at **nicolasmonta1807@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
